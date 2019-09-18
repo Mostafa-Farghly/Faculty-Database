@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1549573434 source:d:\c++\codeblocks programms\faculty.database.manage\main.cpp
+	<iostream>
+	"database.h"
+
+1549830689 source:d:\c++\codeblocks programms\faculty.database.manage\database.cpp
+	"database.h"
+
+1549572791 d:\c++\codeblocks programms\faculty.database.manage\database.h
+	<iostream>
+	<string>
+	<algorithm>
+	<locale>
+	<fstream>
+	"Departments.def"
+	"Title.def"
+	"Year.def"
+
+1549499922 d:\c++\codeblocks programms\faculty.database.manage\departments.def
+
+1549500043 d:\c++\codeblocks programms\faculty.database.manage\title.def
+
+1549500050 d:\c++\codeblocks programms\faculty.database.manage\year.def
+
+1549538539 source:d:\c++\codeblocks programms\faculty.database.manage\mylist.cpp
+	"mylist.h"
+
+1549538921 d:\c++\codeblocks programms\faculty.database.manage\mylist.h
+	"database.h"
+
